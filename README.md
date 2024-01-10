@@ -1,0 +1,2 @@
+# softwareTesting
+manual testing project
